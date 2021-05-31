@@ -1,4 +1,10 @@
-Data and code will come soon - ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation - SIGGRAPH 2021
+Data and code will come soon - ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation - SIGGRAPH 2021 <br />
+<sub>
+  He Zhang (The University of Edinburgh) <br />
+  Yuting Ye (Facebook Reality Lab)<br />  
+  Takaaki Shiratori (Facebook Reality Lab)<br /> 
+  Taku Komura (The University of HongKong & The University of Edinburgh) <br />
+<sub>
 ------------
 
 ------------
