@@ -1,5 +1,9 @@
 Data and code will come soon - ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation - SIGGRAPH 2021
 ------------
+
+------------
+<img src ="Image/teaser.png" width="100%">
+
 <p>
 Paper: http://www.ipab.inf.ed.ac.uk/cgvu/zhang2021.pdf
 </p>
