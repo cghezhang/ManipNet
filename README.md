@@ -16,5 +16,5 @@ Video: https://youtu.be/xvAq8ax5cuE
 Copyright Information
 ============
 <p>
-The majority of the Project 5961133: Oculus - Hand-Object Interaction is licensed under CC-BY-NC, however portions of the project are available under separate license terms: <a href="https://github.com/xraxra/SDFr">SDFr</a> (Project/Utility/SDFr) is licensed under the MIT license.
+The majority of the Project 5961133: Oculus - Hand-Object Interaction is licensed under CC-BY-NC, however portions of the project are available under separate license terms: <a href="https://github.com/xraxra/SDFr">SDFr</a> (Unity/Utility/SDFr) is licensed under the MIT license.
 </p>
