@@ -2,7 +2,7 @@ Data and code will come soon - ManipNet: Neural Manipulation Synthesis with a Ha
 ------------
 
 ------------
-<img src ="Image/teaser1.png" width="100%">
+<img src ="Image/teaser.png" width="100%">
 
 <p>
 Paper: http://www.ipab.inf.ed.ac.uk/cgvu/zhang2021.pdf
