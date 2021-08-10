@@ -1,27 +1,25 @@
-Data and code will come soon - ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation - SIGGRAPH 2021 <br />
-------------
+Data & SimpleVisualizer
+============
 
+
+Data 
 ------------
+<p>
+  1. xxxxxx
+</p>
+<p>
+  2. xxxxxx
+</p>
+
+
+SimpleVisualizer 
+------------
+<p>
+  1. Type the Folder name (shown in right top (red) box) and Press Load;
+</p>
+<p>
+  2. Folder name can be either the full path or folder inside Asset/BVH (shown in middle bottom (red) box);
+</p>
+
 <img src ="../Image/visualization.png" width="100%">
 
-<p>
-  Authors: <a href="https://cghezhang.github.io/">He Zhang</a>, 
-  <a href="http://yutingye.info/">Yuting Ye</a>, 
-  <a href="https://www.cs.cmu.edu/~siratori/">Takaaki Shiratori</a>,
-  <a href="https://homepages.inf.ed.ac.uk/tkomura/">Taku Komura</a>
-</p>
-
-<p>
-Paper: http://www.ipab.inf.ed.ac.uk/cgvu/zhang2021.pdf
-</p>
-
-<p>
-Video: https://youtu.be/xvAq8ax5cuE
-<p>
-
-
-Copyright Information
-============
-<p>
-The majority of the Project 5961133: Oculus - Hand-Object Interaction is licensed under CC-BY-NC, however portions of the project are available under separate license terms: <a href="https://github.com/xraxra/SDFr">SDFr</a> (Unity/Utility/SDFr) is licensed under the MIT license.
-</p>
