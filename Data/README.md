@@ -23,7 +23,7 @@ SimpleVisualizer
   2. Type in the Folder name (shown in right top (red) box) and Press Load;
 </p>
 <p>
-  3. Folder name can be either the full path or folder inside Asset/BVH (shown in middle bottom (red) box);
+  3. Folder name can be either the full path or folder name inside Asset/BVH (shown in middle bottom (red) box);
 </p>
 
 <img src ="../Image/visualization.png" width="100%">
