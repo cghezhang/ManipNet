@@ -11,7 +11,7 @@ Data
   2. object models (OBJ file) <a href="https://github.com/cghezhang/ManipNet/tree/main/Data/ObjectModel">OBJs</a>;
 </p>
 <p>
-  3. hand model (Unity Prefab)<a href="https://github.com/cghezhang/ManipNet/tree/main/Data/HandModel/UnityPrefab">HandModel</a>;
+  3. hand model (Unity Prefab) <a href="https://github.com/cghezhang/ManipNet/tree/main/Data/HandModel/UnityPrefab">HandModel</a>;
 </p>
 
 SimpleVisualizer 
