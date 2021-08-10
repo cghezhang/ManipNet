@@ -1,7 +1,7 @@
 ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation - SIGGRAPH 2021 <br />
 ============
 
-Dataset <a href="https://github.com/cghezhang/ManipNet/tree/main/Data">BVHs</a>
+ <a href="https://github.com/cghezhang/ManipNet/tree/main/Data">Dataset</a>
 ------------
 Code will come soon
 ------------
