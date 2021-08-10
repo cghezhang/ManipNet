@@ -2,7 +2,7 @@ Data and code will come soon - ManipNet: Neural Manipulation Synthesis with a Ha
 ------------
 
 ------------
-<img src ="../Image/teaser.png" width="100%">
+<img src ="../Image/visualization.png" width="100%">
 
 <p>
   Authors: <a href="https://cghezhang.github.io/">He Zhang</a>, 
