@@ -15,7 +15,7 @@ Data
 SimpleVisualizer 
 ------------
 <p>
-  1. Type the Folder name (shown in right top (red) box) and Press Load;
+  1. Type in the Folder name (shown in right top (red) box) and Press Load;
 </p>
 <p>
   2. Folder name can be either the full path or folder inside Asset/BVH (shown in middle bottom (red) box);
