@@ -5,10 +5,7 @@ Data & SimpleVisualizer
 Data 
 ------------
 <p>
-  1. xxxxxx
-</p>
-<p>
-  2. xxxxxx
+  1. Data includes the bvh motion files, object models (OBJ file) and hand module (Unity Prefab).
 </p>
 
 
