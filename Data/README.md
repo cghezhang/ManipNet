@@ -5,10 +5,15 @@ Data & SimpleVisualizer
 Data 
 ------------
 <p>
-  1. Data includes the bvh motion files, object models (OBJ file) and hand module (Unity Prefab).
+  1. bvh motion files https://github.com/cghezhang/ManipNet/tree/main/Data/BVH;
 </p>
-
-
+<p>
+  2. object models (OBJ file) https://github.com/cghezhang/ManipNet/tree/main/Data/ObjectModel;
+</p>
+<p>
+  2. hand model (Unity Prefab) https://github.com/cghezhang/ManipNet/tree/main/Data/HandModel/UnityPrefab 
+</p>
+and 
 SimpleVisualizer 
 ------------
 <p>
