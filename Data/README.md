@@ -20,7 +20,7 @@ SimpleVisualizer
   1. Open <a href="https://github.com/cghezhang/ManipNet/tree/main/Data/SimpleVisualizer">SimpleVisualizer</a> with Unity;
 </p>
 <p>
-  2. Type in the Folder name (shown in right top (red) box) and Press Load;
+  2. Type in the Folder name (shown in right top (red) box) and press Load;
 </p>
 <p>
   3. Folder name can be either the full path or folder name inside Asset/BVH (shown in middle bottom (red) box);
