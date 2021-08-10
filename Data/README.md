@@ -8,7 +8,7 @@ Data
   1. bvh motion files <a href="https://github.com/cghezhang/ManipNet/tree/main/Data/BVH">BVHs</a>;
 </p>
 <p>
-  2. object models (OBJ file) <a href="https://github.com/cghezhang/ManipNet/tree/main/Data/ObjectModel">OBJs</a>;
+  2. object models (OBJ files) <a href="https://github.com/cghezhang/ManipNet/tree/main/Data/ObjectModel">OBJs</a>;
 </p>
 <p>
   3. hand model (Unity Prefab) <a href="https://github.com/cghezhang/ManipNet/tree/main/Data/HandModel/UnityPrefab">HandModel</a>;
