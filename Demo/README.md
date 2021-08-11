@@ -8,7 +8,7 @@ Demo
   3. Mac - run Mac/ManipNet(.app);
 </p>
 <p>
-  4. Left-side buttons can control the visualization of different components;
+  4. Left-side buttons can control the visualization of different components;<br />
   5. Right-side buttons can switch two simple demos;<br />
   5.1. Demo1 shows the result on test trajectories;<br />
   5.2. Demo2 shows different objcets with same trajectories input;
