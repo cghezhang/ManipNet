@@ -12,7 +12,7 @@ Demo
   5. Right-side buttons can switch two simple demos;
 </p>
 <p>
-  6. Demo1 shows the result on test trajectories;<br />
+  6. Demo1 shows the result on testing trajectories;<br />
   7. Demo2 shows different objcets with same trajectories input;
 </p>
 
