@@ -2,6 +2,8 @@ ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representatio
 ============
 
  <a href="https://github.com/cghezhang/ManipNet/tree/main/Data">Dataset</a> is released!
+ 
+  <a href="https://github.com/cghezhang/ManipNet/tree/main/Demo">Demos</a> can be tried here!
 ------------
 Code will come soon.
 ------------
