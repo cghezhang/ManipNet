@@ -16,4 +16,5 @@ Demo
   7. Demo2 shows different objects with the same trajectories input;
 </p>
 
+<img src ="../Image/demo.png" width="100%">
 
