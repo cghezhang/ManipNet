@@ -12,8 +12,8 @@ Demo
   5. Right-side buttons can switch two simple demos;
 </p>
 <p>
-  5.1. Demo1 shows the result on test trajectories;<br />
-  5.2. Demo2 shows different objcets with same trajectories input;
+  6. Demo1 shows the result on test trajectories;<br />
+  7. Demo2 shows different objcets with same trajectories input;
 </p>
 
 
