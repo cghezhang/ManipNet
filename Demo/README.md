@@ -13,7 +13,7 @@ Demo
 </p>
 <p>
   6. Demo1 shows the result on testing trajectories;<br />
-  7. Demo2 shows different objcets with same trajectories input;
+  7. Demo2 shows different objects with the same trajectories input;
 </p>
 
 
