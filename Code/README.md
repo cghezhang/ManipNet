@@ -11,7 +11,7 @@ Unity
   2. Open scene - "Assets/Project/Demo" and run the demo;
 </p>
 <p>
-  3. For Mac user, the Eigen.budle ("Assets/Plugins/Eigen/Eigen.bundle") might be forced to deleted for the first run, but you can simply place it back from Trash, it should work on the second run.
+  3. <b>Known Issue</b> For Mac user, the Eigen.budle ("Assets/Plugins/Eigen/Eigen.bundle") might be forced to deleted for the first run, but you can simply place it back from Trash, it should work on the second run.
 </p>
 
 Tensorflow
