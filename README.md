@@ -5,11 +5,12 @@ ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representatio
 <a href="https://github.com/cghezhang/ManipNet/tree/main/Data">Dataset</a> is released!
 ------------
 
+<a href="https://github.com/cghezhang/ManipNet/tree/main/Code">Demos</a> is released!.
+------------
+
 <a href="https://github.com/cghezhang/ManipNet/tree/main/Demo">Demos</a> can be tried here!
 ------------
 
-Code will come soon.
-------------
 
 <p>
   Authors: <a href="https://cghezhang.github.io/">He Zhang</a>, 
@@ -30,5 +31,5 @@ Video: https://youtu.be/xvAq8ax5cuE
 Copyright Information
 ============
 <p>
-The majority of the Project 5961133: Oculus - Hand-Object Interaction is licensed under CC-BY-NC, however portions of the project are available under separate license terms: <a href="https://github.com/xraxra/SDFr">SDFr</a> (Unity/Utility/SDFr) is licensed under the MIT license.
+The majority of the Project 5961133: Oculus - Hand-Object Interaction is licensed under CC-BY-NC, however portions of the project are available under separate license terms: <a href="https://github.com/xraxra/SDFr">SDFr</a> (Unity/Utility/SDF/SDFr) is licensed under the MIT license.
 </p>
