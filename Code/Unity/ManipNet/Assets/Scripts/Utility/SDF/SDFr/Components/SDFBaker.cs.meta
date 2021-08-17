@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97fad513abc81c14abb3003a163196f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sdfData: {instanceID: 0}
+  - debugTex3D: {instanceID: 0}
+  - volumeComputeMethodsShader: {fileID: 7200000, guid: eb24ba230927ddf41a3048820864ae71,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
