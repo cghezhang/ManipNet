@@ -5,7 +5,7 @@ Data & SimpleVisualizer
 Data 
 ------------
 <p>
-  1. bvh motion files <a href="https://github.com/cghezhang/ManipNet/tree/main/Data/BVH">BVHs</a>;
+  1. bvh motion files <a href="https://drive.google.com/drive/folders/1qW5cwkHItc_KCdFVJviyOPSbrdcQxGkd?usp=sharing">BVHs</a>;
 </p>
 <p>
   2. object models (OBJ files) <a href="https://github.com/cghezhang/ManipNet/tree/main/Data/ObjectModel">OBJs</a>;
