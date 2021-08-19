@@ -5,7 +5,7 @@ Demo
 </p>
 <p>
   2. Windows - run Windows/ManipNetApp/ManipNet.exe;<br />
-  3. Mac - run Mac/ManipNet(.app);
+  3. Mac - run Mac/ManipNet(.app) - if the app can not be opened, please download the app <a href="https://github.com/cghezhang/ManipDemo">here Link</a> and replace the old one in the same folder;
 </p>
 <p>
   4. Left-side buttons can control the visualization of different components;<br />
