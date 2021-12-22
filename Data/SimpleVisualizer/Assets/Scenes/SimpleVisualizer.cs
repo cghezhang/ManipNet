@@ -36,7 +36,7 @@ public class SimpleVisualizer : MonoBehaviour
         if(!Directory.Exists(folder)){
             // it can be only the folder name, then will check the default path
             fullPath = Application.dataPath + "/BVH/" + folder;
-            Debug.Log("haha" + fullPath);
+            Debug.Log("Full path: " + fullPath);
         }
         else{
             fullPath = folder;
@@ -85,7 +85,8 @@ public class SimpleVisualizer : MonoBehaviour
             string[] files = Directory.GetFiles(fullPath);
             for(int i=0; i<files.Length; i++){
                 if(files[i].Substring(files[i].Length-4) == ".bvh"){ 
-                    string subjectName = files[i].Substring(files[i].LastIndexOf("/")+1, (files[i].LastIndexOf(".") - files[i].LastIndexOf("/")- 1));
+                    // string subjectName = files[i].Substring(files[i].LastIndexOf("/")+1, (files[i].LastIndexOf(".") - files[i].LastIndexOf("/")- 1));
+                    string subjectName = files[i].Substring(fullPath.Length+1, (files[i].LastIndexOf(".") - fullPath.Length-1));
                     // Debug.Log(subjectName);
                     if(subjectName == "leftHand"){
                         leftHandSequence = LoadBVH(files[i]);
